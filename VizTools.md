@@ -2,8 +2,11 @@
 
 ## Easy
 RAW
+
 Datawrapper
+
 Google Charts
+
 Tableau Public
 
 ## Intermediate
