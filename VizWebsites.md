@@ -10,6 +10,6 @@
 
 <a href="http://www.informationisbeautiful.net/" target="_blank">Information is Beautiful</a>
 
-<a href="http://www.visualcomplexity.com/vc/" target="_blank">Visual Complexity</a>
+<a href="http://www.visualcomplexity.com/" target="_blank">Visual Complexity</a>
 
 <a href="https://fivethirtyeight.com/" target="_blank">FiveThirtyEight</a>

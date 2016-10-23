@@ -1,18 +1,18 @@
 # List of Data Visualization Tools
 
 ## Easy
-RAW
+<a href="http://raw.densitydesign.org/" target="_blank">RAW</a>
 
-Datawrapper
+<a href="https://www.datawrapper.de/" target="_blank">Datawrapper</a>
 
 Google Charts
 
-Tableau Public
+<a href="https://public.tableau.com/s/" target="_blank">Tableau Public</a>
 
 ## Intermediate
-Adobe Creative Suite (Illustrator, Photoshop, etc. for general design purposes)
+<a href="https://www.adobe.com/creativecloud.html">Adobe Creative Suite (Illustrator, Photoshop, etc. for general design purposes)</a>
 
-Tableau (paid)
+<a href="https://www.tableau.com/" target="_blank">Tableau (paid)</a>
 
 ## Advanced
 
