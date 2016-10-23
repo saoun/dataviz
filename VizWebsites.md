@@ -1,15 +1,15 @@
 # Data Visualization Websites
 
-<a href="http://www.visualisingdata.com/">Visualization Data</a>
+<a href="http://www.visualisingdata.com" target="_blank">Visualization Data</a>
 
-Datavisualisation.ch
+<a href="https://datavisualization.ch/" target="_blank">Datavisualisation.ch</a>
 
-Infosthetics
+<a href="http://infosthetics.com/" target="_blank">Infosthetics</a>
 
-Flowing Data
+<a href="http://flowingdata.com/" target="_blank">Flowing Data</a>
 
-Information is Beautiful
+<a href="http://www.informationisbeautiful.net/" target="_blank">Information is Beautiful</a>
 
-Visual Complexity
+<a href="http://www.visualcomplexity.com/vc/" target="_blank">Visual Complexity</a>
 
-FiveThirtyEight
+<a href="https://fivethirtyeight.com/" target="_blank">FiveThirtyEight</a>
