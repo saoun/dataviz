@@ -20,5 +20,15 @@ Taking care of multiple values: depending on your data visualization tool of cho
 
 ## OpenRefine: hardcore cleaning time
 
-<a href="http://openrefine.org/">OpenRefine</a> is a Java powered data cleaning tool that you can run locally and that works within your web browser. When using spreadsheet formulas to clean data doesn’t cut it, OpenRefine is your new best friend.
+<a href="http://openrefine.org/">OpenRefine</a> is a Java powered data cleaning tool that you can run locally and that works within your web browser. When using spreadsheet formulas to clean data doesn’t cut it, OpenRefine is your new best friend.<br>
+
+Let's check out this example: One column in the dataset looked like this, showing the yearly salary and equity together:
+
+| Job Compensation |
+| ---------------- |
+| ₹1200k - ₹2200k · 0.0 - 0.25% |
+| $3k - $30k · 0.0 - 2.0% |
+| $50k - $75k · 0.0 - 1.0% |
+| $70k - $90k · No equity |
+| 5.0 - 10.0% |
 
