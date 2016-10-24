@@ -32,3 +32,44 @@ Let's check out this example: One column in the dataset looked like this, showin
 | $70k - $90k · No equity |
 | 5.0 - 10.0% |
 
+OpenRefine lets you use formulas to split the values into 2 columns, like this:
+
+| Job Compensation | Equity |
+| ---------------- | ------ |
+| ₹1200k - ₹2200k | 0.0 - 0.25% |
+| ¥20k - ¥100k | 0.0 - 2.0% |
+| £1k - £2k | 0.0 - 1.0% |
+| ₹600k - ₹1000k | No equity | 
+|  | 5.0 - 10.0% |
+
+Here were the steps to follow:
+
+Pick Edit Column -> Add Column Based on This Column. Name the column “Equity”.
+Use the following expression: ``value.split(‘ · ‘)[-1]``. This takes all values that occur before the ‘·’ character in the ‘Job Compensation’ column, and places them in a new column.
+Then on the ‘Job Compensation’ column, pick Edit Cells -> Transform. As the expression, use ``value.split(‘ · ‘)[0]``. This removes everything before the ‘·’ character.
+To clean up values without a currency symbol, pick Facet -> Text Facet. Select all cells with no currency symbol. Then pick Edit Cells -> Transform Use the expression: leave empty.
+
+## Read more
+
+<a href="https://github.com/wireservice/csvkit">csvkit</a> is a suite of command line utilities for converting to and working with CSV files. Not for the faint of heart, but very useful for manipulating large datasets, examining datasets, performing SQL like queries, joining multiple csv files, and much more.
+There are tons of other great resources on data cleaning and data journalism in general: check out <a href="https://support.office.com/en-us/article/Top-ten-ways-to-clean-your-data-2844b620-677c-47a7-ac3e-c2e157d1db19">Microsoft’s cleaning guide</a>, <a href="http://schoolofdata.org/handbook/recipes/cleaning-data-with-spreadsheets/">The School of Data</a>, and <a href="https://infoactive.co/data-design/ch08.html">Data + Design</a>, to name a few.
+
+---------
+
+Info taken from this <a href="http://blog.silk.co/post/143527419532/tools-for-data-visualization-part-2-cleaning-data">blog post</a>.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
