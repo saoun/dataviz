@@ -6,18 +6,19 @@ Sometimes, if you come across a website with structured information that isn’t
 
 ## Import.io
 
-<a hreh="https://import.io">Import.io</a> is an easy tool that lets you extract data from any relatively structured website. Enter a URL on their homepage, and you will be quickly greeted by a structured data table. You can then export the data to a spreadsheet for further cleaning and enhancing.
+<a hreh="https://import.io">Import.io</a> is an easy tool that lets you extract data from any relatively structured website. Enter a URL on their homepage, and you will be quickly greeted by a structured data table. You can then export the data to a spreadsheet for further cleaning and enhancing.<br>
+
 <img src="https://silk-blog.s3.amazonaws.com/blogpost-images/magick.png">
 
 ## Your Browser’s Developer Tools
 
 Sometimes, you can actually copy data from the HTML source. The HTML source is available from your browser’s developer tools.<br>
 
-The ‘Source’ tab shows you the page’s source. This can help you monitor which scripts pull the data and from where. Once you have this information, you could actually find the URL that directs you to a clean structured data. Here’s an <a href="http://apps.frontline.org/concussion-watch/#players_2014">example</a>. This interactive visualization on NFL concussion counts looks hard to scrape.
+The ‘Source’ tab shows you the page’s source. This can help you monitor which scripts pull the data and from where. Once you have this information, you could actually find the URL that directs you to a clean structured data. Here’s an <a href="http://apps.frontline.org/concussion-watch/#players_2014">example</a>. This interactive visualization on NFL concussion counts looks hard to scrape.<br>
 
 <img src="https://silk-blog.s3.amazonaws.com/blogpost-images/datapostpart1-1.png">
 
-But if you click in ‘Sources’ and analyze the code, you’ll find this:
+But if you click in ‘Sources’ and analyze the code, you’ll find this:<br>
 
 <img src="https://silk-blog.s3.amazonaws.com/blogpost-images/datapostpart1-2.png">
 
@@ -47,18 +48,18 @@ Let’s say I have a list of cities, and I want to pull in information about eac
 
 To fill the image column, in cell C2, type:
 
-```=importXML(B2,"//td/a/img/@src")```
+``=importXML(B2,"//td/a/img/@src")``
 
 The drag it down for all the other cities.
 
-```//td/a/img/@src``` 
-This is the XPath expression to query the url (stored in B1) and return the results contained in that specified path. To understand the exact path of what you need, you can view the source of a webpage and figure it out yourself. Or you can find the object you want (in this case the image), by right clicking on it and selecting ‘Inspect Element’. You will then view the page source. Find the url of the image you want, right click and select ‘Copy XPath’. You will now have saved on your clipboard the XPath needed to retrieve the image.
+``//td/a/img/@src``
+This is the XPath expression to query the url (stored in B1) and return the results contained in that specified path. To understand the exact path of what you need, you can view the source of a webpage and figure it out yourself. Or you can find the object you want (in this case the image), by right clicking on it and selecting ‘Inspect Element’. You will then view the page source. Find the url of the image you want, right click and select ‘Copy XPath’. You will now have saved on your clipboard the XPath needed to retrieve the image.<br>
 
 <img src="https://silk-blog.s3.amazonaws.com/blogpost-images/datapostpart1-5.png">
 
 You can repeat this to fill out all the other columns. For example, the first paragraph describing a city is accessible through:
 
-```=JOIN(" ",importXML(B2, "//div[4]/p[1]"))```
+``=JOIN(" ",importXML(B2, "//div[4]/p[1]"))``
 
 --------
 
