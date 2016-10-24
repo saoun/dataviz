@@ -6,7 +6,7 @@ Sometimes, if you come across a website with structured information that isn’t
 
 ## Import.io
 
-<a hreh="https://import.io">Import.io</a> is an easy tool that lets you extract data from any relatively structured website. Enter a URL on their homepage, and you will be quickly greeted by a structured data table. You can then export the data to a spreadsheet for further cleaning and enhancing.<br>
+<a hreh="https://www.import.io/">Import.io</a> is an easy tool that lets you extract data from any relatively structured website. Enter a URL on their homepage, and you will be quickly greeted by a structured data table. You can then export the data to a spreadsheet for further cleaning and enhancing.<br>
 
 <img src="https://silk-blog.s3.amazonaws.com/blogpost-images/magick.png">
 
