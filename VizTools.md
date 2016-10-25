@@ -14,15 +14,31 @@ Google Charts
 
 <a href="https://www.tableau.com/" target="_blank">Tableau (paid)</a>
 
+<a href="http://www.easychart.org/">Easy Chart</a>
+
+<a href="https://plot.ly/">Plotly</a>
+
+<a href="http://www.quadrigram.com/">Quadrigram</a>
+
+<a href="http://cartodb.com/">CARTO</a>
+
+<a href="http://datavisu.al/">Data Visual</a>
+
 ## Advanced
 
 ### Coding for data
 Python
 
-R
+<a href="http://www.r-project.org/">R</a>
 
 ### Coding for visualization
 Javascript
 
-D3.js
+<a href="http://d3js.org/">D3.js</a>
+
+<a href="http://www.chartjs.org/">Chart.js</a>
+
+<a href="https://www.zingchart.com/">ZingChart</a>
+
+
 
