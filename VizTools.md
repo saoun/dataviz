@@ -40,5 +40,8 @@ Javascript
 
 <a href="https://www.zingchart.com/">ZingChart</a>
 
+<a href="http://code.shutterstock.com/rickshaw/">Rickshaw</a>
+
+<a href="http://dimplejs.org/">Dimple JS</a>
 
 
