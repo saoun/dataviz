@@ -36,6 +36,8 @@ Javascript
 
 <a href="http://d3js.org/">D3 (Data Driven Documents)</a>
 
+<a href="https://www.dashingd3js.com/">Dashing D3.js</a>
+
 <a href="http://www.chartjs.org/">Chart.js</a>
 
 <a href="https://www.zingchart.com/">ZingChart</a>

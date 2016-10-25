@@ -13,3 +13,5 @@
 <a href="http://www.visualcomplexity.com/" target="_blank">Visual Complexity</a>
 
 <a href="https://fivethirtyeight.com/" target="_blank">FiveThirtyEight</a>
+
+<a href="http://www.thefunctionalart.com/">The Functional Art</a>

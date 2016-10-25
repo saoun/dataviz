@@ -1,6 +1,6 @@
 # Picking the right type of visualization
 
-some basic visualization guidelines that can help you decide what type of visualization will work best for different types of data and how to show data relationships. These guidelines are also good general considerations beyond Silk for other visualization tools, particularly if you are building simple visualizations.
+Here are some basic visualization guidelines that can help you decide what type of visualization will work best for different types of data and how to show data relationships. These guidelines are also good general considerations beyond Silk for other visualization tools, particularly if you are building simple visualizations.
 
 Here’s a short version of the Silk Visualization Guidelines:
 
@@ -27,7 +27,9 @@ That’s the simple version. Here’s a longer one.
 
 **For Photos**: Grids, mosaics and maps. Anything with a picture or photo means you’ll want to pick one of these three visualization display types. Grids are basically photo galleries with data values underneath. Mosaics pack the pictures in more tightly, use smaller images, and have no data values underneath. You can add images to map location points in Silk - something that Bellingcat does very well with its Ukraine Conflict Vehicle Tracking Project. You can also display images in a table or list visualization type, but the images invariably cause the line spaces between table rows or list bullets to be so wide that it doesn’t display well.
 
-**Groups**: Showing Datacards Organized by Like Values The group view is a simple three-column arrangement that shows datacard titles grouped by a data value. For example, in a Silk about the highest paid athletes, a group view might organize the athlete datacards by sport.
+**Groups**: Showing Datacards Organized by Like Values The group view is a simple three-column arrangement that shows datacard titles grouped by a data value. 
+
+Another basic rule for data visualizations is that less is more. Putting more than one or two data visualization on a page that already has text, columns filled with advertisements, and more, makes your content busy and makes your data harder to read. In online environments where there is less noise and there are no advertisements, adding more visualizations can work. But for the average blog post or news article, one or two visualizations is enough to tell your story. Choose them wisely to make your data story stick.
 
 -----
 
