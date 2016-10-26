@@ -2,9 +2,9 @@
 
 ## Excel tricks
 
-We’ll use Google Sheets in these examples, but Excel usually uses the same formula names (if you are using the English version).
+Google Sheets is used in these examples, but Excel usually uses the same formula names.
 
-The Find & Replace command is very helpful when cleaning data. Use it to change anything that doesn’t look right and follows a predictable pattern. Examples are weird notation symbols, an extra space at the end of each value, etc.
+The [Find & Replace](https://support.google.com/docs/answer/62754?co=GENIE.Platform%3DDesktop&hl=en) command is very helpful when cleaning data. Use it to change anything that doesn’t look right and follows a predictable pattern. Examples are weird notation symbols, an extra space at the end of each value, etc.
 
 Use the <a href="https://support.google.com/docs/answer/3094133?hl=en">PROPER formula</a> to capitalize each word in a string if needed. Example usage: ``=PROPER(A2)``.
 
