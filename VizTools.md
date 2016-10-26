@@ -5,7 +5,7 @@
 
 <a href="https://www.datawrapper.de/" target="_blank">Datawrapper</a>
 
-Google Charts
+[Google Charts](https://developers.google.com/chart/)
 
 <a href="https://public.tableau.com/s/" target="_blank">Tableau Public</a>
 
