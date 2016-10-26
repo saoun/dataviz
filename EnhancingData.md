@@ -1,23 +1,23 @@
 # Enhancing Data
 
-When you have extracted and cleaned your data, you might find that you are still missing a few things before you can get a story out of it. In this post, we’ll share some of our tricks on how to use the data points in your dataset to extract, calculate and lookup additional information. We’ll use Google Sheets in these examples, but Excel works the same, unless we say otherwise.
+Here are some tricks on how to use the data points in your dataset to extract, calculate and lookup additional information. Google Sheets is used in these examples, but Excel works the same, unless mentioned otherwise.
 
 <br>
 
-Let’s say you have a dataset you want to analyze, and it looks like this:
+Let’s say your dataset looks like this:
 
 | Job Title | Job Offer | Link | Job Compensation Scrape | Tags Scrape | Job Compensation | Equity |
 | --------- | --------- | ---- | ----------------------- | ----------- | ---------------- | ------ |
 | Marketing/Growth Hacker | https://angel.co/liveongo/jobs/130607-marketing-growth-hacker | ₹300k - ₹500k · 0.0 - 0.05% | Full Time · Bangalore · Growth Hacker · Branding · Business Development · Business Strategy | ₹300k - ₹500k | 0.0 - 0.05% |
 
-This is part of a list of job postings - scraped from a jobs database at angel.co - that include the keyword “Growth Hacker”. There’s a couple of columns with information for each job posting, including the URL, a salary indication, and a column with tags describing the job. On closer inspection you will notice there’s actually a lot more data hidden in those cells:<br>
+This is part of a list of job postings - scraped from a jobs database at angel.co - that include the keyword “Growth Hacker”. There are a couple of columns with information for each job posting, including the URL, a salary indication, and a column with tags describing the job. On closer inspection, there’s actually a lot more data hidden in those cells:<br>
 
 * For one, the cells with descriptive tags contain multiple terms that are only useful as distinct values.
 * The dataset has some abbreviated terms (the salary specification) that make them difficult to use.
 * Also, that column with salary info actually only shows a range, not exact numbers, and they’re listed in various currencies.
 * Finally, there is no separate column with the name of the company that posted the job opening, but that name is hidden in the URL of the job posting. So you want to distill that company name and put it in a separate column: the scrape actually included another dataset with background info on a lot of these companies, and so we want to add this information to our dataset. 
 
-Now, how do you even begin to enhance your original dataset with all this hidden information? Let’s run by this step by step and see how using simple formulas in Excel or Google Sheets can solve all of the above
+Now, let's begin to enhance this dataset. Let’s run by this step by step and see how using simple formulas in Excel or Google Sheets can solve all of the above.
 
 ## Multiple values in one cell
 
@@ -68,39 +68,3 @@ After applying all of the above formulas, the end result should be a spreadsheet
 ----
 
 Info taken from this <a href="http://blog.silk.co/post/144293633212/tools-for-data-visualization-part-3-enhancing">blog post</a>.
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
