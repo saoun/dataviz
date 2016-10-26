@@ -9,6 +9,8 @@
 
 <a href="https://docs.google.com/spreadsheets/d/1xI9UZnuzuH1dV6iYGH3UWyDuRvXNvCxz3c4mo9TAuxk/edit#gid=0">DDJ tools</a> by NICAR
 
+[DDJ tools](http://data-journalism-tools.silk.co/) by Silk
+
 <a href="http://www.visualisingdata.com/resources/">Visualization resources</a> by Visualizing Data
 
 <a href="http://selection.datavisualization.ch/">Visualization resources</a> by DataVisualization.ch
