@@ -28,6 +28,12 @@ JSON (JavaScript Object Notation) is a lightweight data-interchange format. It i
 
 Sometimes, parts of a web page, such as interactive maps, are populated with data retrieved through API calls. A good alternative to scrape this data is to capture information by clicking on the ‘Network’ tab of your developer tools. Here, you’ll be able to monitor the network operations executed by the script used to run the web page. Sorting for bigger sizes and specific types of operation usually helps finding the script which returns the data you need. Then, you copy and paste the results previewed in the ‘response’ tab on the right into a text editor, and end up with a file containing the results of the API call used to retrieve the data you wanted.
 
+## The Google Chrome Table Capture Extension
+
+<a href="https://chrome.google.com/webstore/detail/table-capture/iebpjdmgckacbodjpijphcplhebcmeop">Table Capture</a> is a Google Chrome extension that converts data from a webpage into a spreadsheet.<br>
+
+Install the extension, then navigate to a page you want to scrape. Clik on the extension, which will appear red if a table is automatically recognized. Select the table you want to scrape, and select Copy to Clipboard, or to Google Docs.
+
 ## The Google Chrome Scraper Extension
 
 <a href="https://mnmldave.github.io/scraper/">Scraper</a> is a Google Chrome extension that converts data from a webpage into a spreadsheet.<br>
