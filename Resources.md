@@ -16,3 +16,5 @@
 <a href="http://selection.datavisualization.ch/">Visualization resources</a> by DataVisualization.ch
 
 <a href="http://www.datavizcatalogue.com/index.html">Data Visualization Catalogue</a>
+
+[Tableau Intro Videos](https://public.tableau.com/en-us/s/resources)
