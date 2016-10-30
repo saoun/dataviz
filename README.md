@@ -10,4 +10,4 @@ Easy. Hit the "Clone or Download" button on the upper right corner, and download
 - If you want a copy where you can make changes or additions, then Fork it. You can then make your changes and then submit a pull request if needed. 
 
 ## Data Link
-[Killed by police](https://docs.google.com/spreadsheets/d/15MA7Z_wZPmLadItZRAcioWXfxoxKA49wtjoEtfPzjzM/edit#gid=0)
+Use this link to follow along: [Killed by police](https://docs.google.com/spreadsheets/d/15MA7Z_wZPmLadItZRAcioWXfxoxKA49wtjoEtfPzjzM/edit#gid=0)
