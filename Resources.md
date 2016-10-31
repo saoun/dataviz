@@ -18,3 +18,8 @@
 <a href="http://www.datavizcatalogue.com/index.html">Data Visualization Catalogue</a>
 
 [Tableau Intro Videos](https://public.tableau.com/en-us/s/resources)
+
+The Guardian: [How to make infographics: a beginner's guide to dataviz](https://www.theguardian.com/global-development-professionals-network/2014/aug/28/interactive-infographics-development-data)
+
+
+[Data Journalism Handbook](http://datajournalismhandbook.org/1.0/en/index.html)
