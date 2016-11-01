@@ -1,4 +1,4 @@
-# Data Visualization Websites
+# Data Visualization Websites to Follow: 
 
 <a href="http://www.visualisingdata.com" target="_blank">Visualization Data</a>
 
