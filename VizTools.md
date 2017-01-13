@@ -9,6 +9,12 @@
 
 <a href="https://public.tableau.com/s/" target="_blank">Tableau Public</a>
 
+[Viz](https://viz.socialcops.com/)
+
+[Charted](http://www.charted.co/)
+
+
+
 ## Intermediate
 <a href="https://www.adobe.com/creativecloud.html">Adobe Creative Suite (Illustrator, Photoshop, etc. for general design purposes)</a>
 
@@ -23,6 +29,14 @@
 <a href="http://cartodb.com/">CARTO</a>
 
 <a href="http://datavisu.al/">Data Visual</a>
+
+[Charted](https://nextjournal.com/)
+
+[Playfair](http://www.austinclemens.com/Playfair/playfair.html)
+
+[Quadrigram](http://www.quadrigram.com/)
+
+[Local Focus](https://www.localfocus.nl/en/)
 
 ## Advanced
 
