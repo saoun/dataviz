@@ -15,3 +15,5 @@
 <a href="https://fivethirtyeight.com/" target="_blank">FiveThirtyEight</a>
 
 <a href="http://www.thefunctionalart.com/">The Functional Art</a>
+
+School of Data
