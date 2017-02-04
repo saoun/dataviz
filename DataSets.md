@@ -10,7 +10,6 @@ re3data.org
 
 [DataBib](http://databib.org/)
 
-
 [DataCite](http://www.datacite.org/)
 
 [Dryad](http://datadryad.org/)
