@@ -40,6 +40,8 @@
 
 [Any Chart](http://www.anychart.com/)
 
+[Brite Charts](https://eventbrite.github.io/britecharts/)
+
 ## Advanced
 
 ### Coding for data
