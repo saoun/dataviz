@@ -1,5 +1,5 @@
 # Resources
-
+[Getting started with d3](https://medium.com/@enjalot/the-hitchhikers-guide-to-d3-js-a8552174733a)
 
 <a href="http://data.heapanalytics.com/how-to-lie-with-data-visualization">How to lie with data visualization</a>
 
