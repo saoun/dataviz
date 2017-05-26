@@ -1,6 +1,8 @@
 # Resources
 [Getting started with d3](https://medium.com/@enjalot/the-hitchhikers-guide-to-d3-js-a8552174733a)
 
+[Integrated Development Environment for D3](http://d3-id3.com/)
+
 <a href="http://data.heapanalytics.com/how-to-lie-with-data-visualization">How to lie with data visualization</a>
 
 <a href="http://www.huffingtonpost.com/raviparikh/lie-with-data-visualization_b_5169715.html">More lying with data visualization</a>
