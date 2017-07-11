@@ -16,4 +16,6 @@
 
 <a href="http://www.thefunctionalart.com/">The Functional Art</a>
 
-School of Data
+[School of Data](https://schoolofdata.org)
+
+[Visual Cinnamon](https://www.visualcinnamon.com/)
