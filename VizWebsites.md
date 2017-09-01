@@ -19,3 +19,5 @@
 [School of Data](https://schoolofdata.org)
 
 [Visual Cinnamon](https://www.visualcinnamon.com/)
+
+[DataViz Project](http://datavizproject.com/about/)
