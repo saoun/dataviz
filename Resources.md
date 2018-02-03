@@ -3,6 +3,8 @@
 
 [Integrated Development Environment for D3](http://d3-id3.com/)
 
+[Data Visualization for Human Rights](http://visualizingrights.org/kit/index.html)
+
 <a href="http://data.heapanalytics.com/how-to-lie-with-data-visualization">How to lie with data visualization</a>
 
 <a href="http://www.huffingtonpost.com/raviparikh/lie-with-data-visualization_b_5169715.html">More lying with data visualization</a>
